@@ -1,0 +1,13 @@
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.Form1.resources
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\bin\Debug\EmpInfo.dll
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\bin\Debug\EmpInfo.pdb
+C:\Users\hemamotupalli\source\repos\EmpDirectory\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.CopyComplete

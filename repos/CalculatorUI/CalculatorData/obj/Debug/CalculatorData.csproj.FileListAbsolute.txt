@@ -1,0 +1,6 @@
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\bin\Debug\CalculatorData.dll
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\bin\Debug\CalculatorData.pdb
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\obj\Debug\CalculatorData.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\obj\Debug\CalculatorData.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\obj\Debug\CalculatorData.dll
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorData\obj\Debug\CalculatorData.pdb

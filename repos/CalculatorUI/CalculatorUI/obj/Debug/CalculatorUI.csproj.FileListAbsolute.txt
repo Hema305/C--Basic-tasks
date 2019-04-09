@@ -1,0 +1,13 @@
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.cache
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorData.dll
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\bin\Debug\CalculatorData.pdb
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.CopyComplete
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.exe
+C:\Users\hemamotupalli\source\repos\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.pdb
